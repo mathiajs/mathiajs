@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Mathias!
 
-I'm a 22-year-old Computer Science student at NTNU 🇳🇴.  
-Currently working part-time as a **Research Assistant** where I also hold lectures!
+22-year-old Computer Science student at NTNU studying in Trondheim. I also work part-time as a Research Assistant where I give lectures.
 
-- ⚽ Sadly a Manchester United fan, hit me up if you want to be sad together😢
-- 🤖 I’m passionate about **AI** and building models that can predict cool things — like **Formula 1 race results**! 🏎️
-- 👨‍💻 Tech stack: **Java**, **Python**, **JavaScript**, **TypeScript**, **React**, **Firebase**, **NextJS**, **NodeJS**, **.NET**, **C#**, **Django**, **Kubernetes**
+- ⚽ Big football fan – always up for discussing the game or working on football analytics projects
+- 🤖 Really into AI and machine learning, exploring different applications and building models
+- 👨‍💻 I work with Java, Python, JavaScript/TypeScript, Vue, React, Firebase, Next.js, Node.js, .NET, C#, Django, and Kubernetes
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mathias-skogen-karstensen-0a8a1926a/)
